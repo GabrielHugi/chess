@@ -1,0 +1,16 @@
+#chessboard {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    background-image: url('../data/images/board/chess-board.png');
+    background-size: 100%;
+}
+
+.chessboard-spot {
+    width: 12.5%; min-width: 12.5%; max-width: 12.5%;
+    
+}
+
+.pieces-image {
+    width: 100%; min-width: 100%; max-width: 100%;
+}
